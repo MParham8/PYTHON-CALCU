@@ -1,5 +1,5 @@
 befor run >>>
-danload >> customtkinter, math
+download >> customtkinter, math
 in cmd >>
 pip install customtkinter
 pip install math
