@@ -1,4 +1,4 @@
-befor run >>>
+before run >>>
 download >> customtkinter, math
 in cmd >>
 pip install customtkinter
