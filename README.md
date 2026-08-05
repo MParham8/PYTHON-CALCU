@@ -6,4 +6,5 @@ pip install math
 
 
 
-Hello i am Parham i make this project if you see a bug report >>> mhmdprham1@gmail.com
+Hello! I am Parham.
+I make this project if you see a bug report >>> mhmdprham1@gmail.com
